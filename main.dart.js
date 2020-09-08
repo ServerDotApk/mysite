@@ -38658,7 +38658,7 @@ N.Rb.prototype={
 $1:function(a){return!0},
 $S:30}
 F.uZ.prototype={
-S:function(a,b){return new S.nO(new F.o_(null),"Flutter Demo",X.WN(null,C.lt,X.a2Y()),!1,null)}}
+S:function(a,b){return new S.nO(new F.o_(null),"FUCK XML",X.WN(null,C.lt,X.a2Y()),!1,null)}}
 F.o_.prototype={
 aU:function(){return new F.qj(C.o)}}
 F.qj.prototype={
