@@ -40172,7 +40172,7 @@
     $1:function(a){return!0},
     $S:27}
     F.vy.prototype={
-    S:function(a,b){return new S.oh(new F.ot(null),"Flutter Demo",X.Yj(null,C.lH,X.a4I()),!1,null)}}
+    S:function(a,b){return new S.oh(new F.ot(null),"FUCK XML",X.Yj(null,C.lH,X.a4I()),!1,null)}}
     F.ot.prototype={
     aU:function(){return new F.qO(C.n)}}
     F.qO.prototype={
